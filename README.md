@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A Software developer from India</h3>
 
-- 🔭 I’m currently **- 💼 Working as a **Java Developer** at **Titan Company** for the past 2 years.**
+- 🔭 I’m currently **- 💼 Working as a **Software Developer II** at **ABC Fitness** having 3 years of experience.**
 
 - 🌱 I’m currently learning **- 📚 Enhancing my **Low-Level Design (LLD)** and **System Design** skills.**
 
